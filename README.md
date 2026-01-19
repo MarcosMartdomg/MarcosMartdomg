@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hola, soy Marcos Martín Domínguez
 
-<!--
-**MarcosMartdomg/MarcosMartdomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Soy Desarrollador Multiplataforma y Web en formación (DAM & DAW), con enfoque en el desarrollo de aplicaciones web y móviles. Me interesa crear soluciones funcionales, bien estructuradas y con una buena experiencia de usuario, aplicando buenas prácticas y aprendiendo continuamente.
 
-Here are some ideas to get you started:
+🔹 Tecnologías y áreas en las que trabajo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript y TypeScript para desarrollo web moderno.
+
+React para interfaces dinámicas y escalables.
+
+Node.js para lógica backend y APIs.
+
+Kotlin para desarrollo de aplicaciones Android.
+
+Bases de datos SQL y uso de servicios backend como Supabase y Firebase.
+
+🔹 Sobre mí:
+
+Me gusta trabajar en proyectos reales y completos, desde la idea hasta la implementación.
+
+Valoro el código limpio, la organización y el aprendizaje constante.
+
+Tengo facilidad para adaptarme a nuevas tecnologías y trabajar en equipo.
+
+Mi objetivo es crecer como desarrollador y aportar valor en proyectos profesionales.
+
+📌 En este GitHub encontrarás mis proyectos personales, prácticas y aplicaciones que reflejan mi evolución como desarrollador y mi camino hacia el entorno profesional.
