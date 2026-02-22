@@ -1,6 +1,6 @@
 👋 Hola, soy Marcos Martín Domínguez
 
-💻 Soy Desarrollador Multiplataforma y Web en formación (DAM & DAW), con enfoque en el desarrollo de aplicaciones web y móviles. Me interesa crear soluciones funcionales, bien estructuradas y con una buena experiencia de usuario, aplicando buenas prácticas y aprendiendo continuamente.
+💻 Soy Tecnico superior en el doble grado de Desarrollo de aplicaciones Multiplataforma y Web (DAM & DAW), con enfoque en el desarrollo de aplicaciones web y móviles. Me interesa crear soluciones funcionales, bien estructuradas y con una buena experiencia de usuario, aplicando buenas prácticas y aprendiendo continuamente.
 
 🔹 Tecnologías y áreas en las que trabajo:
 
