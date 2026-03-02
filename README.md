@@ -26,8 +26,6 @@ Mi objetivo es crecer como desarrollador y aportar valor en proyectos profesiona
 
 📌 En este GitHub encontrarás mis proyectos personales, prácticas y aplicaciones que reflejan mi evolución como desarrollador y mi camino hacia el entorno profesional.
 
-## 👨‍💻 Tech Stack
-
 ### Frontend & Mobile
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,svelte,kotlin,ts,js)](https://skillicons.dev)
 
